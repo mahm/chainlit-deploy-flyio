@@ -1,0 +1,20 @@
+# flyctl launch added from .gitignore
+**/__pycache__
+**/.env
+**/.venv
+
+# flyctl launch added from .idea/.gitignore
+# デフォルトの無視対象ファイル
+.idea/shelf
+.idea/workspace.xml
+# エディターベースの HTTP クライアントリクエスト
+.idea/httpRequests
+# Datasource local storage ignored files
+.idea/dataSources
+.idea/dataSources.local.xml
+
+# flyctl launch added from .venv/.gitignore
+# created by virtualenv automatically
+.venv/**/*
+fly.toml
+*.db
