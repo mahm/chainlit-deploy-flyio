@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "chatkun"
+name = "chainlit-deploy-flyio"
 version = "0.1.0"
 description = ""
 authors = ["Masahiro Nishimi <mah@edged-edge.jp>"]
